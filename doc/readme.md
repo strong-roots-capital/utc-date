@@ -9,7 +9,7 @@ Its emphasis is on convenience and portability, not size.
 ## Install
 
 ``` shell
-npm install utc-date
+npm install @hamroctopus/utc-date
 ```
 
 ## Use

@@ -12,7 +12,7 @@ Install
 -------
 
 ```shell
-npm install utc-date
+npm install @hamroctopus/utc-date
 ```
 
 Use
@@ -39,7 +39,7 @@ console.log(utcDate())
 
 ▸ **utcDate**(): `Date`
 
-*Defined in utc-date.ts:12*
+*Defined in [utc-date.ts:12](https://github.com/strong-roots-capital/utc-date/blob/ca7523a/src/utc-date.ts#L12)*
 
 Get current date in UTC timezone.
 
