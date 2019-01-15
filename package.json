@@ -1,6 +1,6 @@
 {
   "name": "utc-date",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Get Date in UTC timezone",
   "main": "dist/utc-date.js",
   "types": "dist/utc-date.d.ts",
