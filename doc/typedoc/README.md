@@ -1,6 +1,6 @@
 
-utc-date [![Build Status](https://travis-ci.org/strong-roots-capital/utc-date.svg?branch=master)](https://travis-ci.org/strong-roots-capital/utc-date) [![npm](https://img.shields.io/npm/dt/@hamroctopus/utc-date.svg)](https://www.npmjs.com/package/@hamroctopus/utc-date) [![npm version](https://img.shields.io/npm/v/@hamroctopus/utc-date.svg)](https://npmjs.org/package/@hamroctopus/utc-date)
-=======================================================================================================================================================================================================================================================================================================================================================================================================
+utc-date [![Build Status](https://travis-ci.org/strong-roots-capital/utc-date.svg?branch=master)](https://travis-ci.org/strong-roots-capital/utc-date) [![npm](https://img.shields.io/npm/dt/get-utc-date.svg)](https://www.npmjs.com/package/get-utc-date) [![npm version](https://img.shields.io/npm/v/get-utc-date.svg)](https://npmjs.org/package/get-utc-date)
+===================================================================================================================================================================================================================================================================================================================================================================
 
 > Get JavaScript Date in UTC timezone (reliably)
 
@@ -12,14 +12,14 @@ Install
 -------
 
 ```shell
-npm install @hamroctopus/utc-date
+npm install get-utc-date
 ```
 
 Use
 ---
 
 ```typescript
-import { utcDate } from 'utc-date'
+import { utcDate } from 'get-utc-date'
 console.log(utcDate())
 ```
 
@@ -39,7 +39,7 @@ console.log(utcDate())
 
 ▸ **utcDate**(): `Date`
 
-*Defined in [utc-date.ts:12](https://github.com/strong-roots-capital/utc-date/blob/bdb7a10/src/utc-date.ts#L12)*
+*Defined in [utc-date.ts:12](https://github.com/strong-roots-capital/utc-date/blob/e23f970/src/utc-date.ts#L12)*
 
 Get current date in UTC timezone.
 
