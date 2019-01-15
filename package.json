@@ -1,6 +1,6 @@
 {
   "name": "@hamroctopus/utc-date",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get Date in UTC timezone",
   "main": "dist/utc-date.js",
   "types": "dist/utc-date.d.ts",
