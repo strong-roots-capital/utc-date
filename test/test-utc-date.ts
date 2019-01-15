@@ -1,5 +1,5 @@
 import test from 'ava'
-const moment = require('moment-timezone')
+const moment = require('moment')
 
 /**
  * Library under test
@@ -7,6 +7,6 @@ const moment = require('moment-timezone')
 
 import { utcDate } from '../src/utc-date'
 
-test('date should be in UTC timezone', t => {
+test('should return current date in UTC timezone', t => {
     t.deepEqual(new Date(moment().utc().format()), utcDate())
 })

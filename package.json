@@ -33,7 +33,7 @@
   "homepage": "https://github.com/strong-roots-capital/utc-date",
   "dependencies": {
     "@types/node": "^10.12.18",
-    "moment-timezone": "^0.5.23",
+    "moment": "^2.23.0",
     "typescript": "^3.2.2"
   },
   "devDependencies": {
