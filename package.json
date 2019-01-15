@@ -1,11 +1,11 @@
 {
-  "name": "get-utc-date",
+  "name": "@hamroctopus/utc-date",
   "version": "1.0.2",
   "description": "Get Date in UTC timezone",
   "main": "dist/utc-date.js",
   "types": "dist/utc-date.d.ts",
   "scripts": {
-    "build": "tsc",
+    "install": "tsc",
     "test": "ava",
     "test:watch": "ava --watch",
     "dev": "concurrently \"tsc -w\" \"nodemon -e 'ts json' -x 'npm test || true'\"",
