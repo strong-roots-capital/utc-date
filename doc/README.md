@@ -37,7 +37,7 @@ console.log(utcDate())
 
 ▸ **utcDate**(): `Date`
 
-*Defined in [utc-date.ts:9](https://github.com/strong-roots-capital/utc-date/blob/21804d7/src/utc-date.ts#L9)*
+*Defined in [utc-date.ts:9](https://github.com/strong-roots-capital/utc-date/blob/b3148ce/src/utc-date.ts#L9)*
 
 Get current date in UTC timezone.
 
