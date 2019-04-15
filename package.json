@@ -14,7 +14,7 @@
     "typedoc": "typedoc"
   },
   "files": [
-    "dist/"
+    "dist/src/"
   ],
   "husky": {
     "hooks": {
